@@ -9,6 +9,14 @@ body{
   color:white;
   font-family:'Inter', sans-serif;
   overflow-x:hidden;
+  text-align:left;
+}
+
+.photo-block,
+.photo-blockJM{
+
+  text-align:center;
+
 }
 
 /* HERO */
